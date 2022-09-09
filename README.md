@@ -9,3 +9,5 @@
 # Visually Compare Models Performance In a Graph
 
 04. [Visually Compare Models: LR, SVM, KNN, DT, RF, XGB](./ML-AutoScout-Visually_Compare_Models_Part-4.ipynb)
+
+- [Supervised Learning Models](https://scikit-learn.org/stable/supervised_learning.html)
