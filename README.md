@@ -1,5 +1,7 @@
 # ML-Autoscout-Car-Price-Prediction-Project
 
+### [Go to Projects Page](https://github.com/celik-muhammed/19-Data-Analysis-Projects-with-Python/blob/master/README.md)
+
 ## Data Anaytsis
 
 01. [Data_Analysis-Autoscout PART 1: Data Cleaning](./DAwPy_Capstone_Project_AutoScout_Student_Part-1.ipynb)
