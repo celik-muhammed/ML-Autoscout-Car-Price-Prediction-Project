@@ -10,4 +10,9 @@
 
 04. [Visually Compare Models: LR, Ridge, Lasso, Elastic-Net](./ML-AutoScout-Visually_Compare_Models_Part-4.ipynb)
 
+- [LinearRegression - Ordinary Least Squares](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
+- [Ridge Regression](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)
+- [Lasso Regression](https://scikit-learn.org/stable/modules/linear_model.html#lasso)
+- [Elastic-Net Regression](https://scikit-learn.org/stable/modules/linear_model.html#elastic-net)
+
 - [Supervised Learning Models](https://scikit-learn.org/stable/supervised_learning.html)
