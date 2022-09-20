@@ -1,6 +1,6 @@
 # ML-Autoscout-Car-Price-Prediction-Project
 
-### [Go to Projects Page](https://github.com/celik-muhammed/19-Data-Analysis-Projects-with-Python/blob/master/README.md)
+### [Go to Projects Page](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md)
 
 # Capstone Project Data Anaytsis with Python
 
