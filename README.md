@@ -17,8 +17,9 @@
 <img src='https://i.ibb.co/gWn2VyX/download.png' alt='' width=90%, height=300>
 <img src='https://i.ibb.co/QJ4Xmxs/download.png' alt='' width=90%, height=300>
 
-    > - [LinearRegression - Ordinary Least Squares](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
-    > - [Ridge Regression](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)
-    > - [Lasso Regression](https://scikit-learn.org/stable/modules/linear_model.html#lasso)
-    > - [Elastic-Net Regression](https://scikit-learn.org/stable/modules/linear_model.html#elastic-net)
-    > - [Supervised Learning Models](https://scikit-learn.org/stable/supervised_learning.html)
+- [LinearRegression - Ordinary Least Squares](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
+- [Ridge Regression](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)
+- [Lasso Regression](https://scikit-learn.org/stable/modules/linear_model.html#lasso)
+- [Elastic-Net Regression](https://scikit-learn.org/stable/modules/linear_model.html#elastic-net)
+
+- [Supervised Learning Models](https://scikit-learn.org/stable/supervised_learning.html)
