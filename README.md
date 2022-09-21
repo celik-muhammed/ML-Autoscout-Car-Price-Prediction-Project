@@ -14,7 +14,7 @@
 
 <img src='https://i.ibb.co/Lx9TzWj/download.png' alt='' width=90%, height=300>
 <img src='https://i.ibb.co/W6Q3rkc/download.png' alt='' width=90%, height=300>
-<img src='' alt='' width=90%, height=300>
+<img src='https://i.ibb.co/gWn2VyX/download.png' alt='' width=90%, height=300>
 <img src='https://i.ibb.co/QJ4Xmxs/download.png' alt='' width=90%, height=300>
 
     > - [LinearRegression - Ordinary Least Squares](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
