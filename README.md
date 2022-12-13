@@ -15,7 +15,6 @@
 <img src='https://i.ibb.co/LQB8QyD/download.png' alt='' width=90%, height=300>
 <img src='https://i.ibb.co/yhZxLH2/download.png' alt='' width=90%, height=300>
 <img src='https://i.ibb.co/MDrMfgx/download.png' alt='' width=90%, height=300>
-<img src='https://i.ibb.co/6Z3xB7c/download.png' alt='' width=90%, height=550>
 
 - [LinearRegression - Ordinary Least Squares](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
 - [Ridge Regression](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification)
